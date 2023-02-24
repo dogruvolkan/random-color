@@ -1,5 +1,5 @@
 
-# React colorvolki :
+# React volkicolor :
 
 ### Proje özeti :
 
@@ -30,9 +30,9 @@
 
 ### Proje Adresi
 
-[colorvolki](https://dogruvolkan.github.io/todo/)
+[volkicolor](https://volkicolor.vercel.app/)
 
 ### Projenin Görselleri:
 
-![ekran görüntüsü](src/mobile.png)
-![ekran görüntüsü](src/desktop.gif)
+![ekran görüntüsü](mobile.png)
+![ekran görüntüsü](desktop.png)
