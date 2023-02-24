@@ -92,6 +92,7 @@ body {
 .copy-btn {
   cursor: pointer;
   border: none;
+  background-color: transparent;
 }
 
 /* rgbToHex */

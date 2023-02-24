@@ -6,7 +6,7 @@ import RgbToHex from "./RgbToHex";
 function App() {
   return (
     <div className="App">
-      <h1>Colorvolki</h1>
+      <h1>VolkiColor</h1>
       <div className="card">
         <Color />
         <RgbToHex />
